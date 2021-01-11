@@ -1,6 +1,6 @@
 # :mega: Sobre
 
-Aplicação desenvolvida para colocar em prática os conceitos apresentados na aula sobre **Introdução ao Node.js com Express** ministrada por [Henrique Schreiner]('https://github.com/hmschreiner') no Bootcamp _*Node.js Web Developer*_ oferecido pela [**Digital Innovation One**](https://digitalinnovation.one/) em sua plataforma. Este projeto tem como objetivo desenvolver uma API RESTful utilizando Express, framework para aplicações web para Node.js.
+Aplicação desenvolvida para colocar em prática os conceitos apresentados na aula sobre **Introdução ao Node.js com Express** ministrada por [Henrique Schreiner](https://github.com/hmschreiner) no Bootcamp _*Node.js Web Developer*_ oferecido pela [**Digital Innovation One**](https://digitalinnovation.one/) em sua plataforma. Este projeto tem como objetivo desenvolver uma API RESTful utilizando Express, framework para aplicações web para Node.js.
 
 # :dart: Etapas
 
